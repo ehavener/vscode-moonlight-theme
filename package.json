@@ -1,7 +1,7 @@
 {
-    "name": "moonlight",
-    "displayName": "moonlight",
-    "description": "A theme for vscode.",
+    "name": "vscode-moonlight-theme",
+    "displayName": "Moonlight Theme",
+    "description": "\"A theme for all nighters.\"",
     "version": "0.0.1",
     "publisher": "ehavener",
     "engines": {
@@ -13,9 +13,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "moonlight theme",
+                "label": "Moonlight",
                 "uiTheme": "vs-dark",
-                "path": "./themes/moonlight theme-color-theme.json"
+                "path": "./themes/Moonlight-color-theme.json"
             }
         ]
     }
